@@ -1,0 +1,9 @@
+{
+  "slug": "dynamicmockserver",
+  "title": "DynamicMockServer",
+  "summary": "DynamicMockServer is a software project.",
+  "stack": [
+    "TypeScript"
+  ],
+  "sourceUrl": "https://github.com/RAVImitte/DynamicMockServer"
+}

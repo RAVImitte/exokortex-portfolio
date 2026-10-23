@@ -1,0 +1,9 @@
+{
+  "slug": "elder-care-system",
+  "title": "Elder-Care-System",
+  "summary": "Elder-Care-System is a software project.",
+  "stack": [
+    "TypeScript"
+  ],
+  "sourceUrl": "https://github.com/RAVImitte/Elder-Care-System"
+}

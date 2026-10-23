@@ -1,0 +1,9 @@
+{
+  "slug": "flowforge",
+  "title": "FlowForge",
+  "summary": "FlowForge is a software project.",
+  "stack": [
+    "TypeScript"
+  ],
+  "sourceUrl": "https://github.com/RAVImitte/FlowForge"
+}

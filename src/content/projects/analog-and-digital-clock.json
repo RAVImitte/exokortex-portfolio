@@ -1,0 +1,9 @@
+{
+  "slug": "analog-and-digital-clock",
+  "title": "Analog-and-Digital-Clock",
+  "summary": "Analog-and-Digital-Clock is a software project.",
+  "stack": [
+    "TypeScript"
+  ],
+  "sourceUrl": "https://github.com/RAVImitte/Analog-and-Digital-Clock"
+}
